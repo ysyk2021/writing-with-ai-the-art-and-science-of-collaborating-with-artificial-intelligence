@@ -1,0 +1,6 @@
+[book]
+authors = ["ysykzheng"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Writing with AI: The Art and Science of Collaborating with Artificial Intelligence"
