@@ -1,5 +1,3 @@
-The Future of AI Writing Collaboration
-=============================================================
 
 Artificial intelligence (AI) is changing the way we write and collaborate. In this book, we've explored the art and science of AI writing collaboration, from the basics of natural language processing to the benefits and challenges of working with AI writing tools.
 

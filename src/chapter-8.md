@@ -1,5 +1,3 @@
-Chapter 8: Conclusion
-=====================
 
 Writing with artificial intelligence (AI) is a rapidly evolving field that offers an exciting new era of writing collaboration. In this book, we've explored the art and science of collaborating with AI in writing, from the basics of natural language processing to the benefits and challenges of AI writing collaboration.
 

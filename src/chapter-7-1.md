@@ -1,5 +1,3 @@
-Understanding the Psychological and Cognitive Effects of AI-Writing Collaboration
-=====================================================================================================================================
 
 As creative writing collaboration with AI becomes increasingly common, it's important to understand the psychological and cognitive effects of this kind of collaboration. In this chapter, we'll explore what research tells us about the science behind AI writing collaboration.
 

@@ -1,5 +1,3 @@
-The Evolution of Writing Collaboration with AI
-=======================================================================
 
 As technology advances, so does the way we approach various tasks, including writing. With the emergence of artificial intelligence (AI), the possibilities for collaborating with machines to create written content have expanded significantly. In this book, "Writing with AI: The Art and Science of Collaborating with Artificial Intelligence," we explore the evolution of writing collaboration with AI.
 

@@ -1,5 +1,3 @@
-Chapter 5: AI Strategies for Writing Creativity
-===============================================
 
 In this chapter, we'll be discussing the ways in which artificial intelligence can aid writers in enhancing their creativity. Specifically, we'll be exploring AI-powered tools and techniques that can help writers generate new ideas, encourage divergent thinking, and enhance emotional tone and engagement.
 

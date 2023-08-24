@@ -1,5 +1,3 @@
-Evaluating AI-Assisted Writing Performance and Effectiveness
-================================================================================================================
 
 As with any collaboration, evaluating the performance and effectiveness of AI writing collaboration is essential. In this chapter, we'll explore some strategies for assessing the quality of AI-assisted writing and measuring its impact on the writing process.
 

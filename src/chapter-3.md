@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI Writing Collaboration
-========================================================
 
 Artificial intelligence (AI) writing tools have revolutionized the way writers approach their craft, offering powerful new ways to enhance efficiency and productivity. However, integrating AI into your writing process can be daunting. In this chapter, we'll explore key considerations for getting started with AI writing collaboration.
 

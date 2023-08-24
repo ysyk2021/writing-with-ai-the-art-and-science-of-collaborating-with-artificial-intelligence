@@ -1,5 +1,3 @@
-Increasing Inspiration and Idea Generation with AI-Powered Idea Prompts and Inspiration
-========================================================================================================================================
 
 One of the biggest challenges writers face is generating new and innovative ideas to include in their writing. Luckily, artificial intelligence (AI) can help writers overcome this challenge by providing them with inspiration and idea prompts.
 

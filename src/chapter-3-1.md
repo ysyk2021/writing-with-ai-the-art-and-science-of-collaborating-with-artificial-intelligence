@@ -1,5 +1,3 @@
-Identifying Writing Processes that can be Improved with AI
-====================================================================================================================
 
 Artificial intelligence (AI) writing collaboration has the power to enhance the writing process in numerous ways. However, to maximize the benefits of AI tools, it's important to identify specific writing processes that can be improved with AI assistance. In this chapter, we'll explore several key writing processes that can benefit from AI and how to integrate AI tools into these processes.
 

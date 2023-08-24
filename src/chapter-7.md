@@ -1,5 +1,3 @@
-Chapter 7: The Science of AI Writing Collaboration
-==================================================
 
 Collaborating with artificial intelligence (AI) as a writer has both an art and science side. In this chapter, we'll dive into the science side and explore the psychological and cognitive effects of AI-writing collaboration and how to evaluate AI-assisted writing performance and effectiveness.
 

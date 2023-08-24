@@ -1,5 +1,3 @@
-Encouraging Divergent Thinking with AI-Enabled Creative Writing Exercises
-==========================================================================================================================
 
 One of the most exciting applications of AI in creative writing is using it to inspire and encourage divergent thinking. In this chapter, we'll explore how writers can use AI-enabled creative writing exercises to break out of their creative rut and generate new ideas.
 

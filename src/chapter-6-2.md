@@ -1,5 +1,3 @@
-Maintaining Personal Style and Voice in AI-Assisted Writing
-===========================================================================================================
 
 One of the challenges of collaborating with artificial intelligence (AI) as a writer is maintaining personal style and voice in AI-assisted writing. In this chapter, we'll explore strategies for maintaining authenticity and preserving personal style and voice when working with AI writing tools.
 
