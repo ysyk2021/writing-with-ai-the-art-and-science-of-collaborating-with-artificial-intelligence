@@ -10,3 +10,7 @@ The book aims to present a balanced view of AI in writing, highlighting both the
 In conclusion, "Writing with AI: The Art and Science of Collaborating with Artificial Intelligence" is a must-read for writers who want to stay ahead of the curve in the ever-evolving world of technology and writing. With the tools and techniques provided in this book, writers can enhance their writing skills and create engaging content while still maintaining their unique voice and perspective.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
