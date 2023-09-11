@@ -1,5 +1,4 @@
-Chapter 8: Evaluating AI-Assisted Writing Performance and Effectiveness
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of writing with artificial intelligence (AI), it is essential to assess the performance and effectiveness of AI tools and systems. This chapter delves into the methodologies and considerations for evaluating how AI can enhance the art and science of writing.
 

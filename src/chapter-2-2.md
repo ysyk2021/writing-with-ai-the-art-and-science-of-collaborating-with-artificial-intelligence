@@ -1,5 +1,4 @@
-Chapter 6: Machine Learning for Content Generation and Personalization
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we dive deep into the world of machine learning and its pivotal role in content generation and personalization. Machine learning algorithms have the potential to transform the way we create and tailor written content, offering new avenues for creativity and engagement.
 

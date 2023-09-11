@@ -1,5 +1,4 @@
-Chapter 6: Maintaining Personal Style and Voice in AI-Assisted Writing
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the delicate balance of leveraging artificial intelligence (AI) in the writing process while preserving the unique style and voice of human authors. As AI tools become more integrated into writing workflows, it's essential to maintain the authenticity and individuality that define human creativity.
 

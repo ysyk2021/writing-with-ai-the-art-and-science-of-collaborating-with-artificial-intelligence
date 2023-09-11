@@ -1,5 +1,4 @@
-Chapter 5: Enhancing Writing Output with AI-Powered Content Expansion and Generation
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the dynamic capabilities of artificial intelligence (AI) in expanding and generating written content. We delve into how AI serves as a creative partner, enabling writers to produce more comprehensive, engaging, and diverse content.
 

@@ -1,5 +1,4 @@
-Chapter 4: Identifying Writing Processes That Can Be Improved with AI
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey of "Writing with AI: The Art and Science of Collaborating with Artificial Intelligence," it's crucial to recognize the various writing processes that can be enhanced and streamlined with the integration of artificial intelligence (AI). This chapter explores the key aspects of the writing process where AI can make a significant impact.
 

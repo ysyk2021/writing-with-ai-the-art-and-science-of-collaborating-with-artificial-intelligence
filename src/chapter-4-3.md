@@ -1,5 +1,4 @@
-Chapter 4: Improving Writing Quality with AI-Powered Grammar and Style Correction
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the transformative impact of artificial intelligence (AI) on enhancing the quality of writing by providing advanced grammar and style correction capabilities. We'll explore how AI tools can serve as invaluable companions to writers, helping them refine their work and achieve higher levels of precision and clarity.
 

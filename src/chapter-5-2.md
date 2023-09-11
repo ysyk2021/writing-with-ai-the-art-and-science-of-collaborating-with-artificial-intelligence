@@ -1,5 +1,4 @@
-Chapter 6: Encouraging Divergent Thinking with AI-Enabled Creative Writing Exercises
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Divergent thinking, the ability to generate a multitude of unique and creative ideas, is a fundamental skill for writers and creatives. In this chapter, we explore how artificial intelligence (AI) can be harnessed to facilitate and inspire divergent thinking through a variety of creative writing exercises and techniques.
 

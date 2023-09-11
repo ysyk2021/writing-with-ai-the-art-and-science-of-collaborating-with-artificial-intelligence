@@ -1,5 +1,4 @@
-Chapter 8: Navigating the Blurred Line Between Human and AI-Generated Writing
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the intricate terrain where the boundaries between human and artificial intelligence (AI) in writing become increasingly blurred. As AI-generated content becomes more sophisticated, it raises questions about authorship, authenticity, and the evolving role of writers in this AI-powered landscape.
 

@@ -1,5 +1,4 @@
-Chapter 5: Selecting AI Tools and Implementing Them into Writing Workflows
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of "Writing with AI: The Art and Science of Collaborating with Artificial Intelligence," choosing the right AI tools and seamlessly integrating them into your writing workflow is pivotal. This chapter will guide you through the process of selecting AI tools and effectively incorporating them into your writing processes.
 

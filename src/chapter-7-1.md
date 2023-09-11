@@ -1,5 +1,4 @@
-Chapter 9: Understanding the Psychological and Cognitive Effects of AI-Writing Collaboration
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the evolving landscape of writing, the collaboration between humans and artificial intelligence (AI) has become increasingly prevalent. This chapter explores the intricate interplay between psychology, cognition, and the utilization of AI in the creative writing process, shedding light on both the benefits and potential challenges that arise when writers engage in such collaborations.
 

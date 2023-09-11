@@ -1,5 +1,4 @@
-Chapter 3: Natural Language Processing (NLP) for Automated Writing Assistance
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the transformative power of Natural Language Processing (NLP) in the realm of automated writing assistance. NLP is at the core of AI-powered tools that aid writers in various aspects of their craft, from grammar and style correction to content generation and beyond.
 
